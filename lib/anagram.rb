@@ -8,5 +8,6 @@ class Anagram
   end
   
   def match(anagrams)
-    
+    anagrams.split do
+      
     
